@@ -1,0 +1,12 @@
+{
+  "name": "MAG BALM FAMILY",
+  "short_name": "MAG BALM",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDF6F1",
+  "theme_color": "#EDF6F1",
+  "icons": [
+    {"src":"apple-touch-icon.png","sizes":"180x180","type":"image/png","purpose":"any"}
+  ]
+}
